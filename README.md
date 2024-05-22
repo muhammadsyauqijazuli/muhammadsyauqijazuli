@@ -1,4 +1,4 @@
-# Hi there, I'm [Muhammad Syauqi Jazuli]! 👋
+# Hi there, I'm Muhammad Syauqi Jazuli! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=muhammadsyauqijazuli&color=blue)
 
