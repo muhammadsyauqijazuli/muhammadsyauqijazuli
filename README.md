@@ -12,9 +12,10 @@ I am a student from Malikussaleh University in Lhoksumawe, Nanggroe Aceh Darussa
 ![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-5C2D91?logo=dot-net&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white)
 
-## 📈 GitHub Stats
+<!----## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadsyauqijazuli&show_icons=true&theme=radical)
+----->
 
 ## 🌐 Connect with me
 
