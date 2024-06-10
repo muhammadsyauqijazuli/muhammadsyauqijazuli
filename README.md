@@ -1,23 +1,41 @@
 # Hi there, I'm Muhammad Syauqi Jazuli! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=muhammadsyauqijazuli&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=muhammadsyauqijazuli&color=blueviolet&style=flat&label=Profile+Views)
 
-I am a student from Malikussaleh University in Lhoksumawe, Nanggroe Aceh Darussalam, Indonesia, with interests in technology, design, and photography. Actively share knowledge in the world of technology and networking. My diversity of interests reflects a passion for development and creativity.
+I'm a student from Malikussaleh University in Lhoksumawe, Nanggroe Aceh Darussalam, Indonesia. I have a deep passion for technology, design, and photography, and I actively share knowledge in the realms of technology and networking. My diverse interests reflect my enthusiasm for development and creativity.
 
-## 🔧 Technologies & Tools
+### 🚀 Languages and Tools:
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Basic"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
+  <img src="https://img.icons8.com/fluency/48/laravel.png" alt="Laravel"/>
+</p>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-5C2D91?logo=dot-net&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white)
+### 📫 How to reach me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammad-syauqi-jazuli" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/syauqijazuli_" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
+  </a>
+</p>
 
-<!----## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadsyauqijazuli&show_icons=true&theme=radical)
------>
-
-## 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-syauqi-jazuli)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/syauqijazuli_)
+### ✨ Top Languages:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsyauqijazuli&layout=compact&theme=radical" alt="Top languages"/>
+</p>
+<!--
+### 📊 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadsyauqijazuli&show_icons=true&theme=radical" alt="GitHub stats"/>
+</p>
+### 🏆 GitHub Trophies:
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadsyauqijazuli&theme=darkhub" alt="GitHub trophies"/>
+</p>
+Thanks for visiting! 😄
