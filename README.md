@@ -38,4 +38,5 @@ I'm a student from Malikussaleh University in Lhoksumawe, Nanggroe Aceh Darussal
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=muhammadsyauqijazuli&theme=darkhub" alt="GitHub trophies"/>
 </p>-->
+
 Thanks for visiting! 😄
