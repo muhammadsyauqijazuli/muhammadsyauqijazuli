@@ -29,7 +29,6 @@ I'm a student from Malikussaleh University in Lhoksumawe, Nanggroe Aceh Darussal
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsyauqijazuli&layout=compact&theme=radical" alt="Top languages"/>
 </p>
-<!--
 ### 📊 GitHub Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadsyauqijazuli&show_icons=true&theme=radical" alt="GitHub stats"/>
@@ -37,6 +36,6 @@ I'm a student from Malikussaleh University in Lhoksumawe, Nanggroe Aceh Darussal
 ### 🏆 GitHub Trophies:
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=muhammadsyauqijazuli&theme=darkhub" alt="GitHub trophies"/>
-</p>-->
+</p>
 
 Thanks for visiting! 😄
