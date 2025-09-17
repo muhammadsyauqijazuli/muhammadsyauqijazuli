@@ -7,12 +7,12 @@ I'm a student from Malikussaleh University in Lhoksumawe, Nanggroe Aceh Darussal
 ### 🚀 Languages and Tools:
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Basic"/>
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
-  <img src="https://img.icons8.com/fluency/48/laravel.png" alt="Laravel"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
 </p>
 
 ### 📫 How to reach me:
