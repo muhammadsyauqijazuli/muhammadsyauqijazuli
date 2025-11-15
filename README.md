@@ -1,74 +1,67 @@
 # Hi there, I'm Muhammad Syauqi Jazuli! 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=muhammadsyauqijazuli&color=blueviolet&style=flat&label=Profile+Views)
-![Bangkit 2024](https://img.shields.io/badge/Bangkit%202024-Cloud%20Computing%20Cohort-blue)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Certified%20Engineer-orange)
 
-## 🎓 About Me
+🎓 **Cloud Computing Enthusiast** | **Full Stack Developer** | **Graphic Designer**
 
-I'm a passionate Cloud Computing Enthusiast and Frontend Developer currently pursuing my studies at **Malikussaleh University** in Lhokseumawe, Aceh, Indonesia. As a **Bangkit Academy 2024 Cohort** in Cloud Computing pathway, I'm deeply immersed in building scalable cloud solutions and modern web applications.
+I'm a passionate student from **Malikussaleh University** in Lhokseumawe, Aceh, Indonesia, currently honing my skills as a **Cloud Computing participant at Bangkit Academy 2024**. I'm dedicated to creating comprehensive and high-quality technological solutions that make a difference.
 
-I'm dedicated to creating comprehensive, high-quality technological solutions that bridge the gap between robust backend infrastructure and elegant frontend experiences.
+### 🌟 About Me
 
-## 🚀 Technical Expertise
+- 🔭 Currently learning **Google Cloud Platform** and **Serverless Architecture**
+- 💻 Working with **PHP Laravel** framework and **Laragon** development environment
+- 🎯 Focused on **Cloud Computing, Backend Development, and UI/UX Design**
+- 💡 Passionate about creating **innovative solutions** and **beautiful designs**
+- 📚 Constantly expanding my knowledge in **technology and networking**
+- 📸 Photography enthusiast in my free time
 
-### ☁️ Cloud Computing
-- **Google Cloud Platform**: Cloud Run, Cloud Storage, IAM, Monitoring
-- **Serverless Architecture**: API development with Cloud Run
-- **DevOps Practices**: CI/CD pipelines, containerization
-- **Infrastructure Management**: Cloud resource optimization and security
+### 🛠️ Technologies & Tools
 
-### 💻 Frontend Development
-- **Languages**: JavaScript, Python, PHP
-- **Frameworks**: React, Bootstrap, Tailwind CSS
-- **Responsive Design**: Mobile-first approach
-- **Dynamic Functionality**: Interactive user experiences
-
-### 🎨 Design Skills
-- **Graphic Design**: Adobe Photoshop, Illustrator
-- **UI/UX Principles**: Creating intuitive interfaces
-- **Visual Content**: Posters, merchandise, branding materials
-
-## 🏆 Certifications & Achievements
-
-- **Bangkit Academy 2024** - Cloud Computing Specialization (Kampus Merdeka Certified)
-- **Google Cloud Engineer** - Dicoding Certification
-- **Implement DevOps in Google Cloud** - Google Cloud Skill Badge
-- **Cloud Infrastructure Management** - Hands-on expertise
-
-## 💼 Projects & Portfolio
-
-Explore my work and contributions:
-
-- **Personal Portfolio**: [syauqijazuli.vercel.app](https://syauqijazuli.vercel.app/)
-- **Cloud Projects**: Various GCP implementations and serverless applications
-- **Web Applications**: Responsive frontend projects with modern frameworks
-
-## 🛠️ Technologies & Tools
-
+#### **Cloud & Backend**
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/offices/48/000000/php-logo.png" alt="PHP"/>
+  <img src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="Laravel"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+</p>
+
+#### **Frontend Development**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
-  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+</p>
+
+#### **Development Tools**
+<p align="left">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+</p>
+
+#### **Design Tools**
+<p align="left">
   <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop"/>
   <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" alt="Illustrator"/>
 </p>
 
-## 📊 GitHub Statistics
+### 🏆 Certifications & Achievements
 
-<p align="center">
+- ✅ **Bangkit Academy 2024** - Cloud Computing Specialization
+- ✅ **Menjadi Google Cloud Engineer** - Dicoding Certification
+- ✅ **Implement DevOps in Google Cloud** - Google Cloud Skill Badge
+
+### 📈 GitHub Statistics
+
+<p align="Left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsyauqijazuli&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="165"/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=muhammadsyauqijazuli&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" height="165"/> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsyauqijazuli&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
-## 📫 Let's Connect!
+### 📫 Let's Connect!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammad-syauqi-jazuli" target="_blank">
@@ -84,6 +77,4 @@ Explore my work and contributions:
 
 ---
 
-⭐️ *"Passionate about technology, dedicated to creating comprehensive and high-quality solutions."*
-
-Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out for collaboration opportunities. 😄
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out for collaboration!**
