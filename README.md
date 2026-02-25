@@ -9,11 +9,9 @@ I'm a passionate student from **Malikussaleh University** in Lhokseumawe, Aceh, 
 ### 🌟 About Me
 
 - 🔭 Currently learning **Google Cloud Platform** and **Serverless Architecture**
-- 💻 Working with **PHP Laravel** framework and **MySQL** database
-- 🎯 Focused on **Cloud Computing, Backend Development, and UI/UX Design**
-- 💡 Passionate about creating **innovative solutions** and **beautiful designs**
-- 📚 Constantly expanding my knowledge in **technology and networking**
-- 📸 Photography enthusiast in my free time
+- 💻 Working with **PHP Laravel and Next.Js** framework and Cloud database
+- 🎯 Focused on **Cloud Computing, Backend Development**
+- 💡 Passionate about creating **innovative solutions**
 
 ### 🏆 Certifications & Achievements
 
