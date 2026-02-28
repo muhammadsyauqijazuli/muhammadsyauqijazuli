@@ -56,7 +56,3 @@ I'm a passionate student from **Malikussaleh University** in Lhokseumawe, Aceh, 
     <img src="https://img.icons8.com/fluent/48/000000/portfolio.png" alt="Portfolio"/>
   </a>
 </p>
-
----
-
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out for collaboration!**
